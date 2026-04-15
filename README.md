@@ -1,4 +1,4 @@
-# AoH2 AI Event Tool - ¡Crea Eventos con Inteligencia Artificial!
+# AoH2 AI Event Tool - ¡Crea eventos con inteligencia artificial!
 
  
 Bienvenido a la herramienta que cambiará la forma en que creas escenarios para Age of History 2. ¿Alguna vez has querido añadir eventos simples y decisiones dinámicas sin tener que hacerlo manual y tediosamente en el apartado de eventos en un escenario?
@@ -26,7 +26,7 @@ Prueba este hermoso proyecto hecho con cariño hacia la comunidad de este increi
 
 ---
 
-## Guía de Inicio Rápido
+## Guía de inicio rápido
 
 Para empezar a crear, solo necesitas tres cosas: el juego, un agente de IA y esta herramienta.
 
